@@ -1,0 +1,11 @@
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\bin\Debug\netcoreapp2.1\EventExample-Complete.deps.json
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\bin\Debug\netcoreapp2.1\EventExample-Complete.runtimeconfig.json
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\bin\Debug\netcoreapp2.1\EventExample-Complete.runtimeconfig.dev.json
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\bin\Debug\netcoreapp2.1\EventExample-Complete.dll
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\bin\Debug\netcoreapp2.1\EventExample-Complete.pdb
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\obj\Debug\netcoreapp2.1\EventExample-Complete.csproj.CoreCompileInputs.cache
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\obj\Debug\netcoreapp2.1\EventExample-Complete.AssemblyInfoInputs.cache
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\obj\Debug\netcoreapp2.1\EventExample-Complete.AssemblyInfo.cs
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\obj\Debug\netcoreapp2.1\EventExample-Complete.dll
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\obj\Debug\netcoreapp2.1\EventExample-Complete.pdb
+D:\Users\cardi\OneDrive\Documents\Universidad\2019-02\OOP\Ejercicios Clase\Ejercicio_Clase_8\EventExample-Complete\EventExample-Complete\obj\Debug\netcoreapp2.1\EventExample-Complete.csprojAssemblyReference.cache
